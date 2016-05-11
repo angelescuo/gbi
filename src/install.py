@@ -19,6 +19,7 @@ from partition_handler import rDeleteParttion, destroyParttion, makingParttion
 from create_cfg import gbsd_cfg 
 from create_cfg import dbsd_cfg
 from slides import gbsdSlides
+from slides import dbsdSlides
 import sys
 installer = "/usr/local/lib/gbi/"
 sys.path.append(installer)
